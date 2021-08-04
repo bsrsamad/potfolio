@@ -1,0 +1,133 @@
+// .left1 {
+//   &-1 {
+//     animation: mileft2 2s ease-out;
+//   }
+//   &-2 {
+//     animation: mileft2 3s ease-out;
+//   }
+//   &-3 {
+//     animation: mileft2 4s ease-out;
+//   }
+//   &-4 {
+//     animation: mileft2 5s ease-out;
+//   }
+// }
+// .left2 {
+//   &-1 {
+//     animation: mileft2 4s ease-out;
+//   }
+//   &-2 {
+//     animation: mileft2 5s ease-out;
+//   }
+//   &-3 {
+//     animation: mileft2 6s ease-out;
+//   }
+//   &-4 {
+//     animation: mileft2 9s ease-out;
+//   }
+// }
+// .PAlft {
+//   &-1 {
+//     animation: miright 4s ease-out;
+//   }
+//   &-2 {
+//     animation: miright 5s ease-out;
+//   }
+//   &-3 {
+//     animation: miright 6s ease-out;
+//   }
+//   &-4 {
+//     animation: miright 7s ease-out;
+//   }
+//   &-5 {
+//     animation: miright 8s ease-out;
+//   }
+// }
+// .SAlft {
+//   &-1 {
+//     animation: mileft2 4s ease-out;
+//   }
+//   &-2 {
+//     animation: mileft2 5s ease-out;
+//   }
+//   &-3 {
+//     animation: mileft2 6s ease-out;
+//   }
+//   &-4 {
+//     animation: mileft2 7s ease-out;
+//   }
+//   &-5 {
+//     animation: mileft2 8s ease-out;
+//   }
+//   &-6 {
+//     animation: mileft2 9s ease-out;
+//   }
+// }
+// .right1 {
+//   &-1 {
+//     animation: miright 2s ease-out;
+//   }
+//   &-2 {
+//     animation: miright 3s ease-out;
+//   }
+//   &-3 {
+//     animation: miright 4s ease-out;
+//   }
+//   &-4 {
+//     animation: miright 5s ease-out;
+//   }
+// }
+// .PArit {
+//   &-1 {
+//     animation: mileft2 4s ease-out;
+//   }
+//   &-2 {
+//     animation: mileft2 5s ease-out;
+//   }
+//   &-3 {
+//     animation: mileft2 6s ease-out;
+//   }
+//   &-4 {
+//     animation: mileft2 7s ease-out;
+//   }
+//   &-5 {
+//     animation: mileft2 8s ease-out;
+//   }
+//   &-6 {
+//     animation: mileft2 9s ease-out;
+//   }
+// }
+// .SArit {
+//   &-4 {
+//     animation: miright 7s ease-out;
+//   }
+//   &-5 {
+//     animation: miright 8s ease-out;
+//   }
+//   &-6 {
+//     animation: miright 9s ease-out;
+//   }
+// }
+// .CAlft {
+//   &-1 {
+//     animation: mileft2 6s ease-out;
+//   }
+//   &-2 {
+//     animation: mileft2 7s ease-out;
+//   }
+//   &-3 {
+//     animation: mileft2 8s ease-out;
+//   }
+//   &-4 {
+//     animation: mileft2 9s ease-out;
+//   }
+//   &-5 {
+//     animation: mileft2 10s ease-out;
+//   }
+//   &-6 {
+//     animation: mileft2 11s ease-out;
+//   }
+//   &-7 {
+//     animation: mileft2 12s ease-out;
+//   }
+// }
